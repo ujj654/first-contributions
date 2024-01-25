@@ -71,6 +71,7 @@ happy# Contributors
 -[j.f .keneddy]
 - [LSR]
 -[.kim](https//github.com/kim8584)
+- Ujjwal Singh
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
 -[Arshadakl] ()
 - [Somssi Pathania](https://github.com/SOMSSI2110)
